@@ -30,7 +30,6 @@
 [<img align="left" alt="tailwind" width="26px" src="https://blockstudio.dev/wp-content/plugins/fabrikat/src/assets/blockstudio/images/home/tailwind-css-logo.svg" />][tailwindLink]
 [<img align="left" alt="bootstarp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />][bootstarpLink]
 [<img align="left" alt="nextjs" width="26px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />][nextLink]
-[<img align="left" alt="vue" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" />][vueLink]
 
 <br />
 
